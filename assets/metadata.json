@@ -1,0 +1,6 @@
+{
+  "name": "Shark Store - فروشگاه مکمل‌های ورزشی",
+  "description": "فروشگاه آنلاین تخصصی مکمل‌های ورزشی اورجینال، پروتئین وی، کراتین و آمینو اسیدها با ارسال فوری و تسویه‌حساب آسان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
